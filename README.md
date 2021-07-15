@@ -23,7 +23,7 @@ Welcome to my humble abode in the Digital World.. There are 2 types of people in
  
 ## Current Works
 
- * I'm currently working on 🔭 training **DataModels in Python** and gaining new skills 🌱 for **Data Analyst** postion.
+ * I'm currently working on training **DataModels in Python** and gaining new skills for **Data Analyst** postion.
  * Also, I've have immense experience in building robots using tools such as **UiPath and Blueprism**.
  
 ## Employment Experience
